@@ -1,32 +1,8 @@
-# f = open('file.txt','w',encoding='utf-8')
-# print(f.read())
-# f.close
 
-# with open('text.txt','r',encoding='utf-8') as file:
-#     print(file.read())
-
-# colors = ['green','red','blu']
-# data = open('file.txt','w')
-# data.writelines(colors)
-# data.close()
-
-# with open('text.txt','w',encoding='utf-8') as file:
-#     file.write('приветик')
-
-
-# with open('text.txt','a',encoding='utf-8') as file:
-#     file.write('adeed str ')
-
-# import os
-# print(os.getcwdb())
-# os.chdir('C:\\Users\\qwerty\\Desktop\\git_edukechn\\piton_curs')
-# print(os.getcwdb())
-# os.chdir('C:\\Users\\qwerty\\Desktop\\git_edukechn\\piton_curs\\lection10')
-# os.mkdir('new_dyr')
-# os.replace('text.txt','new_dyr\\text.txt')
 
 
 # записная книга
+# студент Бутырин Владимир
 import os
 import sys
 
